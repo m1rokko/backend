@@ -1,0 +1,7 @@
+i want to create a site about university
+entities:
+1)user
+2)admin
+3)main helper
+4)university
+5)facultites

@@ -1,0 +1,34 @@
+1)as an user, i want to know how to communicate with others user
+as an user, i want to complete registration simply
+as an user, i want feedback by admins or moderators
+as an user, i want an own id
+as an user, i want to share mine problems
+
+2)as an admin, i want to have rights higher than the user
+as an admin, i want an access to databases
+as an admin, i want to help users
+as an admin, i want to show way in site
+as an admin, i want to delete formers users
+
+3)main helper(will  be for users who want to solve their problems by own hands)
+this helper will have all contacts of university
+this helper will have local about university
+this helper will have support button
+this helper will have searching button
+this helper will have button with operators(those will help users with problems)
+
+4)university
+will have info about university
+will have helper
+will have admins
+will have reports by users
+will have whole contacts to make sure that you solved problem
+
+5)faculties (as well whole information about university)
+faculties will have info about years of studying
+faculties will have a section about courses
+factulties will have price of payment for studying
+factulties will have specializations
+factulties will have a function adding a payment card
+
+
